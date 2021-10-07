@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anubhav-1020
 - 👀 I've interest in Web Development | Competitive Programming | Open Source 
-- 🌱 I’m currently learning MERN Stack | Django | SQL,Mongo DB
+- 🌱 I’m currently learning MERN Stack | Django | SQL
 - 💞️ I’m looking to collaborate on Flask/Django | HTML,CSS,JS Projects | React JS 
 - 📫 How to reach me Email- anubhavsingh10920@gmail.com
 
