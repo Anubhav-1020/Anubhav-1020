@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Anubhav-1020
+- :mortar_board: I know C/C++ | HTML,CSS,JS | Flask | React JS
 - 👀 I've interest in Web Development | Competitive Programming | Open Source 
-- 🌱 I’m currently learning MERN Stack | Django | SQL
+- :books: I’m currently learning MERN Stack | Django | SQL
 - 💞️ I’m looking to collaborate on Flask/Django | HTML,CSS,JS Projects | React JS 
 - 📫 How to reach me Email- anubhavsingh10920@gmail.com
 
